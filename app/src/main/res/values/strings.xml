@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name" translatable="false">QRWriterReader</string>
+
+    <string name="error">Play!</string>
+    <string name="message">Pwdwdwdlay!</string>
+
+</resources>
